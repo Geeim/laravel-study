@@ -18,7 +18,7 @@
     <link rel="icon" href="{{ asset('images/magallanes.png') }}" type="image/png">
     <link rel="stylesheet" href="{{ asset('css/style.css') }}">
 </head>
-<body class="bg-dark">
+<body class="bg-light">
 
     @include('partials.navbar')
 
